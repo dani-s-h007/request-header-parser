@@ -6,8 +6,6 @@
 
 This is a simple full-stack JavaScript microservice designed to parse and return specific information from your incoming HTTP request headers. It provides your IP address, preferred language, and details about your operating system and software (User-Agent).
 
-This project fulfills a challenge from [FreeCodeCamp's Backend Development and APIs Certification](https://www.freecodecamp.org/learn/back-end-development-and-apis/back-end-development-and-apis-projects/request-header-parser-microservice).
-
 ---
 
 ## Features
