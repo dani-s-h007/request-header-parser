@@ -32,7 +32,7 @@ To get this microservice up and running on your local machine, follow these step
 
 1.  **Clone the Repository:**
     ```bash
-    git clone <your-repo-url> # Replace with your actual GitHub repo URL
+    git clone https://github.com/dani-s-h007/request-header-parser.git
     cd request-header-parser-microservice
     ```
 
